@@ -1,0 +1,18 @@
+
+.movie-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around; 
+    background-color:rgb(38, 0, 128);
+  }
+  
+  .movie {
+    margin: 10px;
+    width: 20%;
+  }
+  
+  .movie img {
+    width: 100%;
+    height: auto;
+  }
+  
